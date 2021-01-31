@@ -1,3 +1,3 @@
 # DEEP LEARNING
-my first one
-i am writting something because...
+
+I have one small project on breast cancer prediction using keras
