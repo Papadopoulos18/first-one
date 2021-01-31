@@ -1,3 +1,3 @@
-# first-one
+# DEEP LEARNING
 my first one
 i am writting something because...
